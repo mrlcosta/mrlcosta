@@ -4,7 +4,6 @@
 Graduating in information engineering at the Federal University of ABC, technician in mechatronics, developer and columnist for embarcados.com.br.
 
 I currently work with ReactJS, React Native and NodeJS.
-
 # 🚀 Skills
 
 <p align="center">
