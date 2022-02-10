@@ -1,5 +1,5 @@
 ### 🙋🏽‍♂️ Hello Everyone! 
-# I'm Muriel Costa.
+# I'm Muriel Costa
 
 Graduating in information engineering at the Federal University of ABC, technician in mechatronics, developer and columnist for embarcados.com.br.
 
